@@ -13,6 +13,10 @@
 * ~~[2-3 Hello_World](./02-03/)~~
 * ~~[2-4 作业: 试着玩一下 Cargo!](./02-04/)~~
 
+## 第3章 Rust基本数据类型
+
+* ~~[3-1 本章导学](./03-01/)~~
+
 ## Ref
 
 * <https://coding.imooc.com/class/chapter/517.html#Anchor>
