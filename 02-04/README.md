@@ -3,7 +3,7 @@
 
 |本期版本| 上期版本
 |:---:|:---:
-`Fri Dec 29 23:32:43 CST 2023` | -
+`Mon Jan  8 14:26:07 CST 2024` | -
 
 ```bash
 rustup component list
